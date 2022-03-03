@@ -19,3 +19,9 @@ Admin Side:
 5.View Order and order items
 6.Update Order status
 7.View registered users
+
+Role_as = 1 => admin
+Role_as = 0 -> user
+
+Admin: logan123@gmail.com Password:admin123
+User:khanh123@gmail.com Password:admin123
